@@ -35,6 +35,7 @@
 - Gonzalo (https://github.com/GonzaloAleo)
 - 23f3000487@ds.study.iitm.ac.in
 -[alejandro soto martinez](https://github.com/Alexsoto042)
+- [anshul kumar](https://github.com/Anshul-Kum/)
 - [Suhayb Faysal](https://github.com/DrZiMo)
 -[arpit tharkar ](https://github.com/ArpitTharkar/first-contributions)
 -[shiv bhajan akela ](https://github.com/akela007/first-contributions)
